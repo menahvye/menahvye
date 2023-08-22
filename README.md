@@ -5,6 +5,8 @@
 
 Actuellement en alternance au sein d'une entreprise de développement de logiciels pour préparer le titre de développeur Full Stack en bac + 3/4, je suis passionné par la programmation et motivé pour acquérir de l'expérience professionnelle dans ce domaine. Rigoureux, autonome et doté d'un bon esprit d'équipe, je possède une connaissance approfondie des langages de programmation et des frameworks associés. Je suis impatient de continuer à apprendre et à acquérir de l'expérience tout en contribuant au développement de logiciels pour les entreprises.
 
+<!--
+
 ## **Statistiques**
 
 ### Stats
@@ -17,7 +19,7 @@ Actuellement en alternance au sein d'une entreprise de développement de logicie
 ![Visitor Count](https://profile-counter.glitch.me/menahvye/count.svg)
 
 
-<!--
+
 **menahvye/menahvye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
